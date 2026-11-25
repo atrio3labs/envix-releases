@@ -4,8 +4,10 @@ Isolated terminal environments for every Microsoft 365 tenant.
 
 ## Download
 
-Get the latest installer from **[Releases](https://github.com/atrio3labs/envix-releases/releases/latest)**:
-`Envix_x.y.z_x64-setup.exe`. It installs for your user only, so no admin rights are needed.
+**[Download Envix for Windows](https://github.com/atrio3labs/envix-releases/releases/latest/download/Envix-setup.exe)** (always the newest version)
+and run it. It installs for your user only, so no admin rights are needed.
+
+Release notes: [latest release](https://github.com/atrio3labs/envix-releases/releases/latest).
 
 Envix keeps itself up to date: Settings → Updates.
 
